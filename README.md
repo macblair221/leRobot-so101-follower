@@ -7,8 +7,7 @@ Building a low-cost 6-DOF follower arm (SO-ARM101) using Hugging Face LeRobot to
 - PushT environment running with gym-pusht
 - Random policy baseline: avg reward ~2.0–2.1 over 10 episodes
 - Videos of random behavior saved
-- PS4 controller connected to lerobot environment
-    - This is how we will teleoperate the arm at first
+- PS4 controller connected to lerobot environment (This is how we will teleoperate the arm at first)
 
 ## Demos
 Random actions baseline:
