@@ -1,4 +1,4 @@
-# LeRobot Project – Real Robot Arm + RL Experiments
+# LeRobot Project – Robot Arm + RL Experiments
 
 Building a low-cost 6-DOF follower arm (SO-ARM101) using Hugging Face LeRobot to train reinforcement learning policies for manipulation tasks.
 
