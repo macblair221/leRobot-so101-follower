@@ -1,0 +1,21 @@
+This folder contains the scripts I used for teleoperation, data recording, camera checking, and evaluation while working on my LeRobot so101 project.
+
+It includes both:
+1. Original LeRobot scripts, which begin with `lerobot_...`
+2. My custom adaptations: `gamepad_record.py` and `gamepad_teleop.py`
+
+
+I created custom scripts because the MotorBus configuration I was using for my robot was not compatible with the default LeRobot teleoperation setup. The original scripts were useful as references, but they did not work for my hardware setup without modification.
+
+File groups
+-----------
+- `lerobot_...`
+  Original scripts from the LeRobot codebase. These served as the starting point for recording, teleoperation, evaluation, and related workflow tasks.
+
+- `gamepad_teleop.py`
+  Custom teleoperation script for controlling the robot with a PS4 gamepad.
+
+- `gamepad_record.py`
+  Custom recording script built around my teleoperation setup for collecting demonstration episodes.
+
+
