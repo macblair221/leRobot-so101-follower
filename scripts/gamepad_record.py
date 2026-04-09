@@ -1,5 +1,5 @@
-# This is a custom script that was made with the help of AI and Lerobots ' existing code for gamepad recording.
-
+# This is a custom script for gamepad recording, specifically using the PS4 DualShock wireless controller. This code was generated using 
+# the help of AI.
 
 #!/usr/bin/env python3
 import time
