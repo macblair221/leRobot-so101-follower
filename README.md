@@ -7,9 +7,10 @@ Building a low-cost 6-DOF follower arm (SO-ARM101) using Hugging Face LeRobot to
 - Used a set of 50 high-quality episodes to help train an ACT policy.
 - The model performed well, over 80k steps, we reduced loss from 6.5 to .034. 
 
-## Demos
-Random actions baseline:
+## Portfolio
 
-<video src="videos/pusht_random_baseline.mp4" width="640" controls autoplay loop muted></video>
+Video available on my website: [macblair221.github.io](https://macblair221.github.io/)
+
+
 
 
