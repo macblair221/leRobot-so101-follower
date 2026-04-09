@@ -1,3 +1,6 @@
+# This is a custom script that was made with the help of AI and Lerobots ' existing code for gamepad recording.
+
+
 #!/usr/bin/env python3
 import time
 from pathlib import Path
