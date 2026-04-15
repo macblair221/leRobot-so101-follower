@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # This is a custom script for gamepad recording, specifically using the PS4 DualShock wireless controller. This code was generated using 
 # the help of AI.
 
