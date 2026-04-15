@@ -1,5 +1,7 @@
-# This code was generated using the help of AI and is a custom script for gamepad teleop, specifically using PS4 DualShock wireless controller
 #!/usr/bin/env python3
+
+# This code was generated using the help of AI and is a custom script for gamepad teleop, specifically using PS4 DualShock wireless controller
+
 import os
 import struct
 import time
